@@ -2,6 +2,9 @@
 
 A simple React application that allows users to search for GitHub profiles using the GitHub API.
 
+## 🔗 Live Demo
+View the deployed app on Vercel: https://github-user-search-app-sage.vercel.app
+
 ## Features
 
 - Search for GitHub users by username
